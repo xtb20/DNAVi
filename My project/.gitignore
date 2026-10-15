@@ -13,11 +13,24 @@ UserSettings/
 MemoryCaptures/
 
 # Visual Studio cache
+.vs/
 .vscode/
 *.csproj
 *.sln
+*.slnx
+*.suo
+*.userprefs
+*.DotSettings.user
 *.user
 *.unityproj
+
+# Unity upgrade reports
+UpgradeLog*.htm
+UpgradeLog*.html
+
+# Generated recordings and build cache
+/[Rr]ecordings/
+.gradle/
 
 # Unity asset store and packages cache
 Assets/AssetStoreTools*
