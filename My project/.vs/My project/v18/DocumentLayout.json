@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alffy\\Desktop\\DNAVi\\My project\\Assets\\Scripts\\NavigationManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NavigationManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alffy\\Desktop\\DNAVi\\My project\\Assets\\Scripts\\WallColorChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WallColorChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +31,19 @@
               "ViewState": "AgIAAC4AAAAAAAAAAAAkwFIAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T02:22:59.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WallColorChanger.cs",
+              "DocumentMoniker": "C:\\Users\\Alffy\\Desktop\\DNAVi\\My project\\Assets\\Scripts\\WallColorChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WallColorChanger.cs",
+              "ToolTip": "C:\\Users\\Alffy\\Desktop\\DNAVi\\My project\\Assets\\Scripts\\WallColorChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WallColorChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:04:18.016Z",
               "EditorCaption": ""
             }
           ]
